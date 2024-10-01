@@ -48,8 +48,8 @@ const Navbar = () => {
                         <p>Write</p>
                     </Link>
 
-                    <Link to="/signin" className="btn-dark py-2">Sign In</Link>
-                    <Link to="/signup" className="btn-light py-2 hidden md:block">Sign Up</Link>
+                    <Link to="/signIn" className="btn-dark py-2">Sign In</Link>
+                    <Link to="/signUp" className="btn-light py-2 hidden md:block">Sign Up</Link>
 
                 </div>
 
